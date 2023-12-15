@@ -90,3 +90,9 @@ input:focus {
   font-size: 2.4rem;
   font-weight: 700;
 }
+button{
+  background-color:#f0d2ce;
+  padding: 10px;
+  border: 1px solid #000000;
+  cursor: pointer;
+}
